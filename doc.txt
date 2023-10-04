@@ -1,0 +1,3 @@
+To initialize our backend js app we write npm init -y.
+index.js file will we our starting point of our server
+Rest API :- 
